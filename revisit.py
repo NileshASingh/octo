@@ -1,7 +1,8 @@
 print "Hello, Python!";
 
 for i in range(10):
-    print "hello";
+    print "i ma nilesh";
+    print "h r u";
 
 raw_input("\n\nPress the enter key to exit.")
 
